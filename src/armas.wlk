@@ -9,6 +9,9 @@ object ballesta {
 	method usar(){
 		flechas -= 1
 	}
+	method flechas(){
+		return flechas
+	}
 }
 
 object jabalina {
